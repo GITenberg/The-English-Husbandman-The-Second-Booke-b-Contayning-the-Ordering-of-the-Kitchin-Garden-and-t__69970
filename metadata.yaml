@@ -1,0 +1,27 @@
+_repo: The-English-Husbandman-The-Second-Booke-b-Contayning-the-Ordering-of-the-Kitchin-Garden-and-t__69970
+_version: 0.0.1
+creator:
+  author:
+    agent_name: M, G
+    gutenberg_agent_id: '55520'
+    url: http://www.gutenberg.org/2009/agents/55520
+description: ''
+gutenberg_issued: '2023-02-07'
+identifiers:
+  gutenberg: '69970'
+language: en
+pgterms:marc905: 20050306102608mauthor
+pgterms:marc906: '1614'
+pgterms:marc907: gb
+production_note: Jonathan Ingram, Krista Zaleski and the Online Distributed Proofreading
+  Team at https://www.pgdp.net
+publication_note: '  $aUnited Kingdom :$bJohn Browne, $c1614.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'The English Husbandman (The Second Booke) : $b Contayning the Ordering of
+  the Kitchin-Garden, and the Planting of strange flowers: the breeding of all manner
+  of Cattell.'
+url: http://www.gutenberg.org/ebooks/69970
