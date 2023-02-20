@@ -1,11 +1,16 @@
 _repo: The-English-Husbandman-The-Second-Booke-b-Contayning-the-Ordering-of-the-Kitchin-Garden-and-t__69970
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 69970-h/images/cover.jpg
 creator:
   author:
     agent_name: M, G
     gutenberg_agent_id: '55520'
     url: http://www.gutenberg.org/2009/agents/55520
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69970#The-English-Husbandman-The-Second-Booke-b-Contayning-the-Ordering-of-the-Kitchin-Garden-and-t_
 gutenberg_issued: '2023-02-07'
 identifiers:
   gutenberg: '69970'
